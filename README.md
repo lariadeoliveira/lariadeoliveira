@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**lariadeoliveira/lariadeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 My name is **Larissa de Oliveira** 👩🏻
 
-Here are some ideas to get you started:
+🔹 I am a student of **Computer Engineering** at *UNICSUL* 👩🏻‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2019* 👩🏻‍💻
+
+🔹 **Full Stack Web Developer** by *Digital House Brasil* 📚
+
+🔹 I'm passionate about **games**, **movie** and **series streams**, **football** and *learning new things* 💁🏻‍♀️
+
+|Hard Skills | Soft Skills |
+|--|--|
+| JavaScript | Comunicação |
+| CSS | Autodidata |
+| HTML| Resiliência |
+|React| Assertividade |
+| Node.JS | Multiculturalidade |
+| Typescript | Liderança |
+| C# | Criatividade |
+| Java | Trabalho Coletivo |
+
+📍 **I share my *daily life as a mother and developer on LinkedIn*, come be part of my Network** ⬇️
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/larissa-de-oliveira-205//)
