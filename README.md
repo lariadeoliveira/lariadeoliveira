@@ -1,6 +1,6 @@
 # Hey 👋
-
-🔹 My name is **Larissa de Oliveira** 👩🏻
+<i class="devicon-javascript-plain colored"></i> 
+🔹 My name is **Larissa de Oliveira** 👩🏻 
 
 🔹 I am a student of **Computer Engineering** at *UNICSUL* 👩🏻‍🎓
 
@@ -12,7 +12,7 @@
 
 |Hard Skills | Soft Skills |
 |--|--|
-JavaScript <i class="devicon-javascript-plain colored"></i> 
+| JavaScript | Comunicação |
 | CSS | Autodidata |
 | HTML| Resiliência |
 |React| Assertividade |
