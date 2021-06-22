@@ -1,5 +1,5 @@
 # Hey 👋
-<i class="devicon-javascript-plain colored"></i> 
+
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
 🔹 I am a student of **Computer Engineering** at *UNICSUL* 👩🏻‍🎓
