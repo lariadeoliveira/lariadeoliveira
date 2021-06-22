@@ -12,7 +12,7 @@
 
 |Hard Skills | Soft Skills |
 |--|--|
-| JavaScript <i class="devicon-javascript-plain colored"></i> | Comunicação |
+JavaScript <i class="devicon-javascript-plain colored"></i> 
 | CSS | Autodidata |
 | HTML| Resiliência |
 |React| Assertividade |
