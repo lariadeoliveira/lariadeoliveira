@@ -2,7 +2,7 @@
 
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
-🔹 I am a student of **Computer Engineering** at *UNICSUL* 👩🏻‍🎓
+🔹 I am a student of **Software Engineering** at *UNICSUL* 👩🏻‍🎓
 
 🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2019* 👩🏻‍💻
 
@@ -12,14 +12,14 @@
 
 |Hard Skills | Soft Skills |
 |--|--|
-| JavaScript | Comunicação |
-| CSS | Autodidata |
-| HTML| Resiliência |
-|React| Assertividade |
-| Node.JS | Multiculturalidade |
-| Typescript | Liderança |
-| C# | Criatividade |
-| Java | Trabalho Coletivo |
+| JavaScript | Communication |
+| CSS | Self-taught |
+| HTML| Resilience |
+|React| Assertiveness |
+| Node.JS | Multiculturalism |
+| Typescript | Leadership |
+| C# | Creativity |
+| Java | Commitment |
 
 📍 **I share my *daily life as a mother and developer on LinkedIn*, come be part of my Network** ⬇️
 
