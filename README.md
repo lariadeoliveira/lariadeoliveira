@@ -2,7 +2,7 @@
 
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
-🔹 I am a student of ** Systems Analysis and Developer** at *Descomplica College* 👩🏻‍🎓
+🔹 I am a student of **Systems Analysis and Developer** at *Descomplica College* 👩🏻‍🎓
 
 🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2019* 👩🏻‍💻
 
