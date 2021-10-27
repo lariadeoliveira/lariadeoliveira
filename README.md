@@ -16,7 +16,7 @@
 | CSS | Self-taught |
 | HTML| Resilience |
 |React| Assertiveness |
-| Node.JS | Multiculturalism |
+| Drupal | Multiculturalism |
 | Typescript | Leadership |
 | C# | Creativity |
 | Java | Commitment |
