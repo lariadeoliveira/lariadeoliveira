@@ -2,7 +2,7 @@
 
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
-🔹 I'm a **Tech Education Manager and Software Engineer** 🏻‍
+🔹 I'm a **Tech Education Manager and Software Engineer** 
 
 🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2016* 👩🏻‍💻
 
