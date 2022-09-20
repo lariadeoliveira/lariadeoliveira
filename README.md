@@ -2,11 +2,9 @@
 
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
-🔹 I'm a **Education Community Manager** at *GitHub Education* 👩🏻‍🎓
+🔹 I'm a **Tech Education Manager and Software Engineer** 🏻‍
 
-🔹 I am a student of **Systems Analysis and Developer** at *Descomplica College* 👩🏻‍🎓
-
-🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2019* 👩🏻‍💻
+🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2016* 👩🏻‍💻
 
 🔹 **Full Stack Web Developer** by *Digital House Brasil* 📚
 
