@@ -2,7 +2,7 @@
 
 🔹 My name is **Larissa de Oliveira** 👩🏻 
 
-🔹 I'm a **Tech Community Manager** 
+🔹 I'm a **Tech Community Manager and Full Stack Web Developer** 
 
 🔹 **Study Programming and Software Development** since I was 12 years old and *started working in the technology area in 2016* 👩🏻‍💻
 
@@ -19,8 +19,8 @@
 | Drupal | Multiculturalism |
 | Typescript | Leadership |
 | C# | Creativity |
-| Java | Commitment |
+| Phyton | Commitment |
 
 📍 **I share my *daily life as a mother and developer on LinkedIn*, come be part of my Network** ⬇️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/larissa-de-oliveira-205//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/larideoliiveira//)
